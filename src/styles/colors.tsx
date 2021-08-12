@@ -1,0 +1,12 @@
+export const gray = "#f1f2f7";
+export const indigo = "#3f51b5";
+export const indigoDarken10 = "#364495";
+export const yellow = "#ffc107";
+export const green = "#4caf50";
+export const danger = "#ef5350";
+export const tileGray = "#F9F9F9";
+export const primaryBlue = "#5489DC";
+export const contentSecondary = "#808080";
+export const tagGray = "#BBBBBB";
+export const tagPrimary = "#78A4F6";
+export const tagRed = "#E36A77";
